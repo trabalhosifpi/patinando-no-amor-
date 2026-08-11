@@ -1,0 +1,35 @@
+INVESTIGAÇÃO — FORMULÁRIO PATINANDO NO AMOR
+
+1. GET vs. POST
+
+Ao testar o método GET, percebi que os dados preenchidos
+no formulário aparecem na própria URL depois do símbolo.
+
+Ao testar o método POST, percebi que os dados são enviados
+no corpo da requisição e não ficam expostos na URL da mesma
+forma.
+
+Para o meu formulário, escolhi o método POST porque ele
+é mais adequado para enviar informações como nome, e-mail
+e avaliação do livro.
+
+
+2. CODIFICAÇÃO
+
+Ao observar o envio dos dados, percebi que alguns caracteres
+são codificados.
+
+Por exemplo:
+
+@ → %40
+
+Um espaço pode aparecer como:
+
+%20
+
+ou
+
++
+
+Isso acontece porque os dados precisam ser representados
+em um formato adequado para serem transmitidos pela web.

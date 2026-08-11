@@ -1,0 +1,35 @@
+Reflexão — Formulário Web
+1. Que tema você escolheu e por quê?
+
+Eu escolhi o tema do livro “Patinando no Amor”, da autora Lynn Painter,
+porque é o livro que estou lendo atualmente e é um assunto que gosto.
+ Além disso, escolhi as cores do formulário de acordo com a capa do livro,
+ utilizando principalmente tons de rosa e azul. Dessa forma, procurei fazer 
+ com que o visual do formulário tivesse relação com o livro escolhido e tornasse 
+ o projeto mais personalizado.
+
+2. Por que você usou GET ou POST no seu formulário?
+
+Eu escolhi utilizar o método POST no formulário porque ele envia os dados no corpo da requisição,
+ em vez de deixá-los diretamente visíveis na URL. Durante a atividade, também testei 
+ o método GET e percebi que, nesse caso, os dados aparecem na URL depois do ponto de interrogação.
+  Para o meu formulário, o POST faz mais sentido porque são enviadas informações como nome, e-mail
+   e uma avaliação sobre o livro.
+
+3. Cite um momento em que teve que decidir entre dois controles e explique sua escolha.
+
+Um dos momentos em que precisei escolher entre controles foi na pergunta sobre o personagem favorito. 
+Optei por utilizar o select, pois existem vários personagens e essa opção permite apresentar todos eles
+ em um menu suspenso sem ocupar muito espaço no formulário.
+
+Também utilizei radio buttons na pergunta “Você já leu o livro?” porque o usuário deve escolher 
+apenas uma opção entre “Sim”, “Ainda não” ou “Não”. 
+Já os checkboxes foram utilizados para “O que você mais gostou?”, pois nessa pergunta o usuário pode 
+escolher mais de uma característica, como romance, patinação, humor e desenvolvimento dos personagens.
+
+4. O que você faria diferente se tivesse mais tempo?
+
+Se tivesse mais tempo, eu acrescentaria mais recursos ao formulário para deixá-lo ainda mais
+ interativo e completo. Também poderia melhorar alguns detalhes do design e adicionar outras
+  funcionalidades para tornar a experiência do usuário mais interessante. Além disso, faria mais 
+  testes para garantir que todos os campos e opções funcionassem corretamente.
